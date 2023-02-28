@@ -32,4 +32,6 @@ fucionar ramas a la rama raiz
 actualizar rama con la rama master
 	paso 1- git checkout nombreRama 	: cambiar de rama a descargar acutalizacion
 	paso 2- git pull master 			: hacer una descarga de actualizaciones de la ramar raiz
-	
+--------------------------------------------------------------------------------------------------------
+		fin de la notas
+---------------------------------------------------------------------------
