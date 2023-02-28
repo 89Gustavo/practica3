@@ -19,4 +19,9 @@ primer carga al repositorio
 	
 	
 
-		
+crear, eliminar, y moverse entre ramas
+	git branch nombreRama 				: crear rama
+	git branch -d nombre_rama			: crear y moverse a la rama
+	git branch -d nombre_rama			: eliminar Rama
+	git checkout nombreRama				: moverse a la rama
+	
