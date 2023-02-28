@@ -25,3 +25,11 @@ crear, eliminar, y moverse entre ramas
 	git branch -d nombre_rama			: eliminar Rama
 	git checkout nombreRama				: moverse a la rama
 	
+fucionar ramas a la rama raiz	
+	paso 1- git checkout main			:cambiarse a la rama raiz
+	paso 2- git merge nombre de la rama
+	
+actualizar rama con la rama master
+	paso 1- git checkout nombreRama 	: cambiar de rama a descargar acutalizacion
+	paso 2- git pull master 			: hacer una descarga de actualizaciones de la ramar raiz
+	
