@@ -1,0 +1,22 @@
+NotasGit:
+configuracion usuario:
+	git config --global user.name "USUARIO"
+	git config --global user.email "CORREO"
+	
+ver el usuario y correo configurado
+	git config user.name
+	git config user.email
+	
+	
+	
+primer carga al repositorio
+	paso 1- git init					: iniciamos el proyecto
+	paso 2- git branch -M main			: nos cambiamos a la rama raiz
+	paso 3- git add origin url			: agregamos la url del repositorio remoto
+	paso 4- git add documento 			: agregamos el o los documentos
+	paso 5- git commit -m "comentario"	: agreamos el comit y comenario
+	paso 6- git push -u origin 	main 	: subiemos los archivos al repossitorio
+	
+	
+
+		
