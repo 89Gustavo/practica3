@@ -33,6 +33,13 @@ actualizar rama con la rama master
 	paso 1- git checkout nombreRama 	: cambiar de rama a descargar acutalizacion
 	paso 2- git pull master 			: hacer una descarga de actualizaciones de la ramar raiz
 
+
+retorna una a una version anterior
+	paso 1- actualizar el repositorio
+	paso 2- git log						: ver todos el historial de actualizaciones
+	paso 3- git checkout numeroVersion	: seleccionar la version a retornar
+	
+	
 --------------------------------------------------------------------------------------------------------
 		fin de la notas
 ---------------------------------------------------------------------------
